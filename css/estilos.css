@@ -1,0 +1,42 @@
+h1{ color: #8F2E2E;
+    background-color:#C46C6C;
+    padding: 10px;
+    text-align: center;
+  }
+
+.marron { color: #423122;
+          background-color: #B58660;
+          padding: 10px;
+          text-align: center;
+        }
+
+.marronI { color: #423122;
+        background-color: #B58660;
+        padding: 10px;
+        }
+
+.verde  {  color: #304011;
+           background-color: #92B056;
+           padding: 10px;
+        }
+
+.globosdetexto {  color: #22291A;
+                          background-color: #C4D6A5;
+                          padding: 10px;
+                          text-align: center;
+               }
+
+.globosdetextoI {  color: #22291A;
+                  background-color: #C4D6A5;
+                  padding: 10px;
+                }
+
+.globosdetextoII { color: #361C1C;
+                  background-color: #C76F6F;
+                  padding: 10px;
+                 }
+
+                 .fondo  { background-color: #FFE3E3}
+
+.imagencentrada { text-align: center;
+}
