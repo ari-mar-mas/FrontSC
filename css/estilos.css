@@ -1,12 +1,14 @@
 h1{ color: #8F2E2E;
     background-color:#C46C6C;
     padding: 10px;
+    text-decoration: underline;
     text-align: center;
   }
 
 .marron { color: #423122;
           background-color: #B58660;
           padding: 10px;
+          text-decoration: underline;
           text-align: center;
         }
 
