@@ -15,6 +15,7 @@ h1{ color: #8F2E2E;
 .marronI { color: #423122;
         background-color: #B58660;
         padding: 10px;
+        text-decoration: underline;
         }
 
 .verde  {  color: #304011;
